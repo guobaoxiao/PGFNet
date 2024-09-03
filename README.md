@@ -17,11 +17,13 @@ If you need YFCC100M and SUN3D datasets, You can visit the code at https://githu
 If you find the PGFNet code useful, please consider citing:
 
 ```bibtex
-@article{liu2023pgflnet,
-  author    = {Xin Liu, Guobao Xiao*, Riqing Chen and Jiayi Ma},
-  title     = {PGFNet: Preference-Guided Filtering Network for Two-View Correspondence Learning},
-  booktitle = {IEEE Transactions on Image Processing (TIP)},
-  year      = {2023},
-  volume= {32},
-  pages     = {1367-1378}
+@article{liu2023pgfnet,
+  title={Pgfnet: Preference-guided filtering network for two-view correspondence learning},
+  author={Liu, Xin and Xiao, Guobao and Chen, Riqing and Ma, Jiayi},
+  journal={IEEE Transactions on Image Processing},
+  volume={32},
+  pages={1367--1378},
+  year={2023},
+  publisher={IEEE}
 }
+```  
